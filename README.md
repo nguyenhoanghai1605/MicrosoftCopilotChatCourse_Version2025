@@ -16,11 +16,11 @@ The course will provide useful knowledge such as:
 
 Notes on use and reference materials about Copilot Chat:
 
-1. Copilot usage skills: <img width="735" height="735" alt="image" src="https://github.com/user-attachments/assets/dd538d65-cae3-4447-8132-48bbe2415da4" />
+1. Copilot usage skills: <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/dd538d65-cae3-4447-8132-48bbe2415da4" />
 
-2. Copilot training roadmap & use cases: <img width="736" height="735" alt="image" src="https://github.com/user-attachments/assets/07b14e81-f781-4b61-b671-23ab5a8c5c42" />
+2. Copilot training roadmap & use cases: <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/07b14e81-f781-4b61-b671-23ab5a8c5c42" />
 
-3. Frequently asked questions about copilot: <img width="732" height="735" alt="image" src="https://github.com/user-attachments/assets/2ed02cc6-6914-4e07-b3b7-93d062da3f97" />
+3. Frequently asked questions about copilot: <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/2ed02cc6-6914-4e07-b3b7-93d062da3f97" />
 
 ## Detailed demo of Copilot Chat course:
 
