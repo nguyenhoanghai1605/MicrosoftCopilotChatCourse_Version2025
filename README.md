@@ -1,6 +1,7 @@
 ## Microsoft Copilot Chat Course Version 2025
 
 In order to support you in improving your work efficiency through the application of new technology. 
+
 The IT Department respectfully invites you to participate in the course "Microsoft Copilot Chat" - a short, practical training program that will help you better understand how to use Copilot Chat to support your daily work. 
 
 The course will provide useful knowledge such as: 
@@ -13,7 +14,15 @@ The course will provide useful knowledge such as:
 
 • Tips and practices to optimize the experience of using Copilot Chat. 
 
-Notes on use and reference materials about Copilot Chat.
+Notes on use and reference materials about Copilot Chat:
+
+1. Copilot usage skills: <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/dd538d65-cae3-4447-8132-48bbe2415da4" />
+
+2. Copilot training roadmap & use cases: <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/07b14e81-f781-4b61-b671-23ab5a8c5c42" />
+
+3. Frequently asked questions about copilot: <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/2ed02cc6-6914-4e07-b3b7-93d062da3f97" />
+
+## Detailed demo of Copilot Chat course:
 
 <img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/ccb10370-0b8c-44ab-8750-7874fc6eaacd" />
 <img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/6cfcb052-39f8-49e5-ad48-1ac0d0766ddb" />
