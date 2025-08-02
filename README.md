@@ -28,7 +28,7 @@ Notes on use and reference materials about Copilot Chat:
    
    <img width="135" height="135" alt="image" src="https://github.com/user-attachments/assets/2ed02cc6-6914-4e07-b3b7-93d062da3f97" />
 
-## Detailed demo of Copilot Chat course:
+## Detailed demo of Copilot Chat course
 
 <img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/ccb10370-0b8c-44ab-8750-7874fc6eaacd" />
 <img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/6cfcb052-39f8-49e5-ad48-1ac0d0766ddb" />
