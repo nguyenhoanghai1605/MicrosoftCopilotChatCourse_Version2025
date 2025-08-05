@@ -1,4 +1,4 @@
-## Microsoft Copilot Chat Course Version 2025:
+## Microsoft Copilot Chat Course Version 2025
 
 In order to support you in improving your work efficiency through the application of new technology. 
 
